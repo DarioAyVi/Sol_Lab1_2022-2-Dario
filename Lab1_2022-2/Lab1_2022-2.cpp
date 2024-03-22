@@ -5,6 +5,7 @@
 const int MAX = 16;
 // TEST V2
 // Comentario en GitHub
+// Nos gusta la salchipapa
 using namespace std;
 
 void read_data(int *ptr_n, int coded_word_numbers[], char coded_word[]);
